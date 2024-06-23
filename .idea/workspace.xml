@@ -4,23 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbaef6a1-e718-403e-b8d7-801b85e56ba3" name="Changes" comment="Function">
+    <list default="true" id="dbaef6a1-e718-403e-b8d7-801b85e56ba3" name="Changes" comment="Function Scope">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab066.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab067.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab068.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab069.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab070.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab071.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab072.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab073.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab074.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab075.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab076.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab077.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab078.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab079.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_17062024/Lab065.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_17062024/Lab065.py" afterDir="false" />
     </list>
+    <list id="f98ca212-99c4-4093-b429-2347f4df394f" name="new_Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +138,7 @@
       <recent name="C:\Users\Ankita Sharma\PycharmProjects\PyLearning3xATB\Ex_12062024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab079">
+  <component name="RunManager" selected="Python.Lab071">
     <configuration name="Lab071" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
@@ -263,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab071" />
         <item itemvalue="Python.Lab079" />
         <item itemvalue="Python.Lab076" />
         <item itemvalue="Python.Lab075" />
         <item itemvalue="Python.Lab074" />
-        <item itemvalue="Python.Lab071" />
       </list>
     </recent_temporary>
   </component>
@@ -282,6 +270,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="dbaef6a1-e718-403e-b8d7-801b85e56ba3" name="Changes" comment="" />
+      <changelist id="f98ca212-99c4-4093-b429-2347f4df394f" name="new_Changes" comment="" />
       <created>1717425380545</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -367,7 +356,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718896179816</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Function Scope">
+      <option name="closed" value="true" />
+      <created>1719141854134</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1719141854134</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -381,7 +378,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -403,6 +400,7 @@
     <MESSAGE value="Task2" />
     <MESSAGE value="If else" />
     <MESSAGE value="Function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Function" />
+    <MESSAGE value="Function Scope" />
+    <option name="LAST_COMMIT_MESSAGE" value="Function Scope" />
   </component>
 </project>
