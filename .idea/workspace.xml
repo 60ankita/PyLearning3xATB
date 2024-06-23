@@ -5,21 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbaef6a1-e718-403e-b8d7-801b85e56ba3" name="Changes" comment="Function">
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab077.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab078.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab079.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab066.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab067.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab068.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab069.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab070.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab071.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab072.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab073.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab074.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab075.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab076.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab077.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab078.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab079.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,10 +136,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Ankita Sharma/PycharmProjects/PyLearning3xATB",
+    "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ankita Sharma\PycharmProjects\PyLearning3xATB" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Ankita Sharma\PycharmProjects\PyLearning3xATB\Ex_14062024" />
       <recent name="C:\Users\Ankita Sharma\PycharmProjects\PyLearning3xATB\Ex_12062024" />
@@ -370,7 +375,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
