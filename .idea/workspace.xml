@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbaef6a1-e718-403e-b8d7-801b85e56ba3" name="Changes" comment="Function Scope">
+    <list default="true" id="dbaef6a1-e718-403e-b8d7-801b85e56ba3" name="Changes" comment="Function Scope file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_17062024/Lab065.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_17062024/Lab065.py" afterDir="false" />
     </list>
     <list id="f98ca212-99c4-4093-b429-2347f4df394f" name="new_Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -364,7 +363,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719141854134</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Function Scope file">
+      <option name="closed" value="true" />
+      <created>1719143737395</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1719143737395</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -378,7 +385,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -401,6 +408,7 @@
     <MESSAGE value="If else" />
     <MESSAGE value="Function" />
     <MESSAGE value="Function Scope" />
-    <option name="LAST_COMMIT_MESSAGE" value="Function Scope" />
+    <MESSAGE value="Function Scope file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Function Scope file" />
   </component>
 </project>

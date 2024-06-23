@@ -1,19 +1,7 @@
-# # Function Scope
-#
-# def a():
-#     a = 10
-#     print(a)
-#
-#
-# a()
+gobal_a = 10
 
-# Function Scope
+def f1():
+    print(gobal_a)
+    
 
-def my_function():
-    a = 10
-    local_var = 34
-    print("Hello")
-    print(a)
-
-# print(a) # name 'a' is not defined
-my_function()
+f1()

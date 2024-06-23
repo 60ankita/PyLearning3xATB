@@ -1,15 +1,14 @@
-numbers = [1, 2, 3]
+# Important Question
 
+# Lambda Expression
+# to do the task the in one line.
 
-# Collecion of Items
+# def double_my_salary(salary):
+#     return salary * 2
+#
+#
+# new_salary = double_my_salary(100)
+# print(new_salary)
 
-def do_something(pramod_list):
-    pramod_list.append(100)
-    pramod_list[0] = 123
-    return pramod_list
-
-def shanti():
-    print("dasda")
-
-l = do_something(pramod_list=numbers)
-print(l)
+f_double_salary = lambda salary : salary * 2
+print(f_double_salary(100))

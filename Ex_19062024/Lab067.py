@@ -1,7 +1,14 @@
-gobal_a = 10
+def outer_function():
+    var1 = 30
+    def inner_function():
+        print(var1)
 
-def f1():
-    print(gobal_a)
-    
+    inner_function()
 
-f1()
+    def inner_function2():
+        print(var1)
+
+    inner_function2()
+
+
+outer_function()

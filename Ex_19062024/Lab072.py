@@ -1,10 +1,10 @@
-# lambda arguments: expression
-# def sum_three_num(a,b,c):
-#     return a+b+c
+# def find_even_odd(num):
+#     if num % 2 == 0:
+#         print("Even")
+#     else:
+#         print("odd")
 #
-#
-# o = sum_three_num(3,4,5)
-# print(o)
+# find_even_odd(6)
 
-name = lambda a, b, c: a + b + c
-print(name(1, 2, 3))
+even_odd = lambda num: "Even" if num % 2 == 0 else "Odd"
+print(even_odd(5))

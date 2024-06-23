@@ -1,14 +1,15 @@
-def outer_function():
-    var1 = 30
-    def inner_function():
-        print(var1)
-
-    inner_function()
-
-    def inner_function2():
-        print(var1)
-
-    inner_function2()
+numbers = [1, 2, 3]
 
 
-outer_function()
+# Collecion of Items
+
+def do_something(pramod_list):
+    pramod_list.append(100)
+    pramod_list[0] = 123
+    return pramod_list
+
+def shanti():
+    print("dasda")
+
+l = do_something(pramod_list=numbers)
+print(l)

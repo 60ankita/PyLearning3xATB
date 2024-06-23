@@ -1,10 +1,10 @@
-# def sum(a,b):
-#     return a + b
+# lambda arguments: expression
+# def sum_three_num(a,b,c):
+#     return a+b+c
 #
-# add = sum(4,5)
-# print(add)
+#
+# o = sum_three_num(3,4,5)
+# print(o)
 
-# lambda is use for one liner
-
-sum = lambda a,b: a+b
-print(sum(4,6))
+name = lambda a, b, c: a + b + c
+print(name(1, 2, 3))
