@@ -1,22 +1,20 @@
-# Dict
-# Key and Value
-# name -> "Pramod"
+pramod_details2 = \
+    {"name": "Pramod",
+     "90": 34.34,
+     "isMale": True,
+     "Address": "KA"
+     }
 
-# A dictionary is an unordered collection of data
-# in a key-value pair format.
+print(pramod_details2.get("Address"))
+print(pramod_details2["Address"])
+print(pramod_details2.values())
+print(pramod_details2.keys())
 
-my_dict2 = {
-    "name": "Pramod",
-    "age" : 45 ,
-    "address" : "Bangalore"
-}
+my_dict = {'a': 1, 'b': 2, 'c': 3, 'a': 95, 'd': 95}
+print(my_dict)
+print(len(my_dict))
+print(list(my_dict.keys()))
+print(list(my_dict.values()))
 
-print(len(my_dict2))
-print(my_dict2["name"])
-my_dict2["name"] = "Sashi"
-print(my_dict2)
-print(my_dict2["age"])
-print(my_dict2["address"])
-
-phone_book = dict(name="Amit",age=57,address="Delhi")
-print(phone_book)
+for k, v in my_dict.items():
+    print(k, v)

@@ -1,13 +1,22 @@
-def log_decorator(func):
-    def wrapper(*args, **kwargs):
-        print(f"Calling {func.__name__} with {args} and {kwargs}")
-        result = func(*args, **kwargs)
-        print(f"{func.__name__} returned {result}")
-        return result
-    return wrapper
+# Dict
+# Key and Value
+# name -> "Pramod"
 
-@log_decorator
-def add(a, b):
-    return a + b
+# A dictionary is an unordered collection of data
+# in a key-value pair format.
 
-add(2, 3)
+my_dict2 = {
+    "name": "Pramod",
+    "age" : 45 ,
+    "address" : "Bangalore"
+}
+
+print(len(my_dict2))
+print(my_dict2["name"])
+my_dict2["name"] = "Sashi"
+print(my_dict2)
+print(my_dict2["age"])
+print(my_dict2["address"])
+
+phone_book = dict(name="Amit",age=57,address="Delhi")
+print(phone_book)
