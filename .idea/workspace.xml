@@ -5,28 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbaef6a1-e718-403e-b8d7-801b85e56ba3" name="Changes" comment="oops concept">
-      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab131.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab132.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab133.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab134.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab135.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab136.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab137.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab138.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab139.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab140.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab141.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab142.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab143.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab144.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab145.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab146.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab147.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab148.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab149.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/xyz/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/xyz/filexyz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/xyz/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_01072024/TextData2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab149.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab150.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab151.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab152.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab153.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab154.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab155.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab156.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab157.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab158.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab159.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab160.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab161.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab162.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab163.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab164.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab165.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab166.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab167.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab168.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab169.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab170.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/TD.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/TextData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex02_July/Ex_03072024/ankita.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="f98ca212-99c4-4093-b429-2347f4df394f" name="new_Changes" comment="" />
@@ -182,7 +186,22 @@
     "Python.Lab143.executor": "Run",
     "Python.Lab144.executor": "Run",
     "Python.Lab146.executor": "Run",
+    "Python.Lab150.executor": "Run",
+    "Python.Lab151.executor": "Run",
+    "Python.Lab153.executor": "Run",
+    "Python.Lab156.executor": "Run",
+    "Python.Lab157.executor": "Run",
+    "Python.Lab160.executor": "Run",
+    "Python.Lab163.executor": "Run",
+    "Python.Lab164.executor": "Run",
+    "Python.Lab165.executor": "Run",
+    "Python.Lab166.executor": "Run",
+    "Python.Lab167.executor": "Run",
+    "Python.Lab168.executor": "Run",
+    "Python.Lab169.executor": "Run",
+    "Python.Lab170.executor": "Run",
     "Python.Lab38.executor": "Run",
+    "Python.Lb162.executor": "Run",
     "Python.Palindrome of string.executor": "Run",
     "Python.String reverse.executor": "Run",
     "Python.Task_2.executor": "Run",
@@ -208,8 +227,8 @@
       <recent name="C:\Users\Ankita Sharma\PycharmProjects\PyLearning3xATB\Ex_12062024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab146">
-    <configuration name="Lab141" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab170">
+    <configuration name="Lab165" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,11 +237,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex02_July/Ex_01072024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex02_July/Ex_03072024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab141.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab165.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,7 +250,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab142" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab167" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,11 +259,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex02_July/Ex_01072024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex02_July/Ex_03072024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab142.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab167.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,7 +272,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab143" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab168" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,11 +281,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex02_July/Ex_01072024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex02_July/Ex_03072024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab143.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab168.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +294,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab144" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab169" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -284,11 +303,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex02_July/Ex_01072024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex02_July/Ex_03072024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab144.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab169.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,7 +316,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab146" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab170" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -306,11 +325,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex02_July/Ex_01072024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex02_July/Ex_03072024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex02_July/Ex_01072024/Lab146.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex02_July/Ex_03072024/Lab170.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,11 +340,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab146" />
-        <item itemvalue="Python.Lab144" />
-        <item itemvalue="Python.Lab143" />
-        <item itemvalue="Python.Lab142" />
-        <item itemvalue="Python.Lab141" />
+        <item itemvalue="Python.Lab170" />
+        <item itemvalue="Python.Lab169" />
+        <item itemvalue="Python.Lab168" />
+        <item itemvalue="Python.Lab167" />
+        <item itemvalue="Python.Lab165" />
       </list>
     </recent_temporary>
   </component>
@@ -490,7 +509,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720641710538</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="oops concept">
+      <option name="closed" value="true" />
+      <created>1721935734569</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1721935734569</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
