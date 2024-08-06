@@ -19,8 +19,8 @@
 # lines = file_object.readlines() for all lines in a list.
 # # Close the file
 
-# ile = open("/Users/promode/PycharmProjects/Py3xATBLearning/ex02_July/01072024/TestData2.txt", 'r')
-file = open("TextData.txt", 'r')
+file = open("/Users/Ankita Sharma/PycharmProjects/PyLearning3xATB/Ex02_July/Ex_01072024/TextData2.txt", 'r')
+# file = open("TextData.txt", 'r')
 content = file.read()
 print(content)
 file.close()
